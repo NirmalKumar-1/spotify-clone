@@ -1,8 +1,16 @@
-## Disclaimer
+DISCLAIMER: THIS PAGE WAS
+MADE AS A PERSONAL
 
-This project is a frontend-only UI clone of Spotify, created solely for educational and portfolio-building purposes.  
-It does not include music streaming functionality and is not affiliated with Spotify.  
-All design elements are either original creations or sourced under open licenses.
+
+EDUCATIONAL PROJECT. This
+is NOT the official site of the
+company or brand identified
+on the page. The creator of
+his page is NOT affliated with
+he company or brand in any
+way. This page is apersonal
+project made in connection
+with an educational exercise.
 
  https://nirmalkumar-1.github.io/spotify-clone/
 
